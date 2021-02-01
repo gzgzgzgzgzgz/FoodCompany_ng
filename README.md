@@ -1,3 +1,5 @@
+Deploy的地方有问题 懒得搞了真无聊
+放在这里做我的reference吧干
 # ConFusion
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.6.
